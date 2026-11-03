@@ -1,0 +1,27 @@
+[x] master        
+[x] commit-one-file        
+[x] commit-one-file-staged        
+[x] ignore-them        
+[x] chase-branch        
+[x] merge-conflict        
+[x] save-your-work        
+[x] change-branch-history        
+[x] remove-ignored        
+[x] case-sensitive-filename        
+[x] fix-typo        
+[x] forge-date        
+[x] fix-old-typo        
+[x] commit-lost        
+[x] split-commit        
+[x] too-many-commits        
+[x] executable        
+[x] commit-parts        
+[x] pick-your-features        
+[x] rebase-complex        
+[x] invalid-order        
+[x] find-swearwords        
+[x] find-bug        
+
+See your progress and instructions at:        
+https://gitexercises.fracz.com/c/27v        
+
